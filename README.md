@@ -6,6 +6,7 @@ I created this profile to showcase my work and share knowledge and ideas with th
 
 Here are some of my favourite projects that I've worked on:
 
+* SidGautamAI: An AI Chat Assistant that uses Meta's Llama3 LLM. Hosted on [Here](https://sidgautamai.glitch.me/).
 * SidGautamJS: A JavaScript Library that adds some interesting and helpful features, and it also adds some not-so-helpful things.
 
 Feel free to reach out to me for:
