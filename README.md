@@ -7,8 +7,9 @@ I created this profile to showcase my work and share knowledge and ideas with th
 Here are some of my favourite projects that I've worked on:
 
 * SidGautamAI: An AI Chat Assistant that uses DeepSeek V3, DeepSeek R1, and Meta's Llama4. Hosted on [Here](https://sidgautam.ca/ai-chat/).
-* SidGautamJS: A JavaScript Library that adds some interesting and helpful features, and it also adds some not-so-helpful things.
+* SidGautamJS: A JavaScript Library that adds some interesting and helpful features, and it also adds some not-so-helpful things. Hosted on [Here](https://sidgautam.ca/js-lib/)
 * SidGautamOS: A Debian-based Linux distribution. I designed it to be a minimal desktop experience, with only essentials installed.
+* SidGautamNotes: A basic, native Windows and Linux, text-editing application.
 
 Feel free to reach out to me for:
 
