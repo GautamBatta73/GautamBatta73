@@ -10,6 +10,7 @@ Here are some of my favourite projects that I've worked on:
 * SidGautamJS: A JavaScript Library that adds some interesting and helpful features, and it also adds some not-so-helpful things. Hosted on [Here](https://sidgautam.ca/js-lib/)
 * SidGautamOS: A Debian-based Linux distribution. I designed it to be a minimal desktop experience, with only essentials installed.
 * SidGautamNotes: A basic, native Windows and Linux, text-editing application.
+* SidGautamScript: A custom programming language, whose compiler and runtime environment are written in NodeJS.
 
 Feel free to reach out to me for:
 
