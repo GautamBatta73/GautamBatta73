@@ -20,3 +20,5 @@ Feel free to reach out to me for:
 * Food recommendations 😋
 
 Thanks for stopping by! 👋
+
+<a href="https://www.buymeacoffee.com/GautamBatta73" target="_blank"><img src="https://i.imgur.com/xPQdsF8.png" alt="Buy Me A Hot Chocolate" style="height: 47px !important;width: 200px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
